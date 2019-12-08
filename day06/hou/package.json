@@ -1,0 +1,21 @@
+{
+  "name": "hou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.6",
+    "koa": "^2.11.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.1",
+    "npm": "^6.13.2"
+  }
+}
